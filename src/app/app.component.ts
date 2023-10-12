@@ -16,11 +16,6 @@ import { Component } from '@angular/core';
             >Product List</a
           >
         </li>
-        <li>
-          <a class="nav-link" routerLinkActive="active" routerLink="/about"
-            >About</a
-          >
-        </li>
       </ul>
     </nav>
     <div class="container">
